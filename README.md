@@ -52,3 +52,7 @@ To use ESLint, you need to create an ESLint configuration file (usually named .e
 In your CI/CD pipeline, you would include a step to run ESLint against your codebase. 
 
         npm run lint
+
+## Read More
+
+- [Click hier to read more about eslint](https://www.npmjs.com/package/eslint)
